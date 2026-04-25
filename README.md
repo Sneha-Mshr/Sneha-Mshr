@@ -19,7 +19,7 @@ Let's connect and grow together in this amazing tech journey!
 
 [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sneha-Mshr)
 
-[![PORTFOLIO](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://terminal-portfolio-lac.vercel.app/)
+[![PORTFOLIO](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-sneha-mishras-projects-ffb3b594.vercel.app/)
 
 [![EMAIL](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snehamishra132003@gmail.com)
 
