@@ -17,8 +17,6 @@ Let's connect and grow together in this amazing tech journey!
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehamishra132003/)
 
-[![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Sneha-Mshr)
-
 [![PORTFOLIO](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-sneha-mishras-projects-ffb3b594.vercel.app/)
 
 [![EMAIL](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snehamishra132003@gmail.com)
@@ -55,72 +53,35 @@ I'm actively looking for **internship opportunities** and **entry-level position
 
 ---
 
-## 🛠️ Technical Skills I'm Learning & Using
+## 📊 Highlights
 
-**Programming Languages:** C++, JavaScript, TypeScript 
-
-**AI/ML Technologies:** LangChain.js, RAG Architecture, Google Gemini API, Vector Search, Function Calling 
-
-**Backend Development:** Node.js, Express.js, Prisma, JWT Authentication, Redis, Trigger.dev v3 
-
-**Frontend Development:** React.js, Next.js, Redux Toolkit, Zustand, React Flow 
-
-**Databases:** PostgreSQL, MongoDB, Pinecone (Vector DB), Redis 
-
-**Developer Tools:** Git, Postman, Docker, Cloudinary, Linux/Shell 
-
-**📚 Currently Learning:** Advanced System Design, Microservices, Cloud Technologies 
-
-**🎯 Strong Foundation:** Data Structures & Algorithms, Operating Systems, DBMS, Computer Networks
+- 🧠 Solved 1000+ DSA problems (LeetCode, GFG, etc.)
+- 🚀 Built 5+ full-stack applications
+- ⚡ Experience with async workflows & AI agents
+- 🎓 CGPA: 8.42  
 
 ---
 
-## 🏆 Achievements & Highlights
+## 🛠️ Tech Stack
 
-- 🚀 Built 5+ full-stack applications with modern tech stack
-
-- ⚡ Architected distributed async task execution using Trigger.dev v3 for long-running AI workflows
-
-- 🤖 Built autonomous AI agent with PLAN → EXECUTE → VALIDATE reasoning loop
-
-- 🔁 Implemented DAG-based topological execution with parallel node processing in NextFlow
-
-- 🎓 Maintaining 8.42 CGPA while working on side projects
-
-- 💪 Solved 500+ coding problems across various platforms
+**Languages:** C++, JavaScript, TypeScript  
+**Frontend:** React, Next.js, Redux, Zustand  
+**Backend:** Node.js, Express, Prisma, Redis  
+**AI/ML:** LangChain, RAG, Gemini API  
+**Databases:** PostgreSQL, MongoDB, Pinecone  
+**Tools:** Git, Docker, Postman, Linux  
 
 ---
 
-## 🌱 What I'm Looking For
+## 🎯 Looking For
 
-**🔍 Seeking Opportunities:**
-
-- Software Development Internships
-
-- Full-Stack Developer Roles
-
-- AI/ML Engineering Positions
-
-- Open Source Contributions
-
-- Collaborative Projects
-
-**💡 Always Open To:**
-
-- Learning new technologies
-
-- Mentorship and guidance
-
-- Networking with fellow developers
-
-- Contributing to impactful projects
+- Software Development Internships  
+- Full-Stack / AI-ML Roles  
+- Open Source & Collaboration  
 
 ---
 
-**Final Year B.Tech Student at NIT Hamirpur** passionate about building innovative solutions and constantly learning. Ready to contribute, grow, and make an impact in the tech industry!
-
-**🌟 Let's connect and build something amazing together!**
-
+💡 Always learning, building, and exploring new technologies.
 
 
 <!--
