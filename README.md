@@ -45,8 +45,6 @@ I'm actively looking for **internship opportunities** and **entry-level position
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sneha-Mshr&show_icons=true&theme=dark)
 
-**📈 Contributions:** 30+ in the last year 
-
 **📂 Active Projects:** 6+ major repositories 
 
 **⭐ Problem Solving:** 1000+ questions solved on LeetCode & GeeksforGeeks
