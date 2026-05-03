@@ -17,7 +17,7 @@ Let's connect and grow together in this amazing tech journey!
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snehamishra132003/)
 
-[![PORTFOLIO](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portfolio-sneha-mishras-projects-ffb3b594.vercel.app/)
+[![PORTFOLIO](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://my-code-hub-asj4.vercel.app/)
 
 [![EMAIL](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:snehamishra132003@gmail.com)
 
