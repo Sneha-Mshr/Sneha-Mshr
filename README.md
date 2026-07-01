@@ -58,7 +58,7 @@ I'm actively looking for **internship opportunities** and **entry-level position
 - 🧠 Solved 1000+ DSA problems (LeetCode, GFG, etc.)
 - 🚀 Built 5+ full-stack applications
 - ⚡ Experience with async workflows & AI agents
-- 🎓 CGPA: 8.42  
+- 🎓 CGPA: 7.7 
 
 ---
 
